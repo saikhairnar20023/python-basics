@@ -1,1 +1,1 @@
-# python-basics
+# 100 days of python
